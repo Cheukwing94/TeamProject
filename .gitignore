@@ -1,0 +1,39 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.pyc
+
+# Ignore Gradle build output directory
+build
+
+# Ignore frontend node modules
+frontend/node_modules
+
+# Ignore qtcreator files
+build-admin-console-Desktop-Debug
+build-adminconsole-Desktop-Debug
+
+# kdevelop
+*.kdev4
+
+# Intellij
+.idea
+*.impl
+
+admin-console/CMakeLists.txt.user
+
+*.pyc
+
+api docs/.obsidian/app.json
+
+api docs/.obsidian/appearance.json
+
+api docs/.obsidian/core-plugins.json
+
+api docs/.obsidian/hotkeys.json
+
+api docs/.obsidian/workspace
+*.orig
+
+*.d
+
+.obsidian/
